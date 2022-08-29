@@ -1,9 +1,7 @@
-Hi everyone! I'm @Veggieoskibroski
+Hi everyone! I'm @KtheVeg
 
-I'm a student developing software/code as a hobby. I've coded in Lua, JS, and Bash/Shell Script
+I'm a student developing software/games as a hobby. I'm an active user of JS and C#, and can write in many other programming languages
 
-I'm never running dry of ideas on what to code. If anyone wants to work with me on anything, let me know.
-You can contact me via Discord (Veggieoskibroski#5570).  
+I enjoy writing code to help others make better code. My goal is to make something helpful to be used by others
 
-
-Anyway, have a great day!
+Anyway, have a good day
