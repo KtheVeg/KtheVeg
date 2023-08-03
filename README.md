@@ -5,3 +5,5 @@ I'm a student developing software/games as a hobby. I'm an active user of JS and
 My goal is to make something helpful to be used by others. If you ever find my open-source software useful, drop a donation on my ko-fi page
 
 Anyway, have a good day
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G8JNWA8)
